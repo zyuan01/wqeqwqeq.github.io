@@ -9,7 +9,7 @@ jasmine daily log update
 
 
 hope you sad every day :)
-- ![Jasmine pic] (jas.jpg)
+- ![Jas happy face](jas.jpg)
 
 Here is a link to phub
 - [![My video]](https://www.google.com)
