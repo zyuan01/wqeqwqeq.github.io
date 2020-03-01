@@ -8,7 +8,7 @@ Here are some demos
 jasmine daily log update 
 
 
-hope you sad every day :)
+wish you have an another happy day!
 - ![Jas happy face](jas.jpg)
 
 Here is a link to phub
